@@ -33,6 +33,9 @@ Cookie Notice allows you to you elegantly inform users that your site uses cooki
 ![1](https://user-images.githubusercontent.com/77494902/123644695-83186f80-d81d-11eb-9a42-3713fd3af176.jpg)
 ![2](https://user-images.githubusercontent.com/77494902/123644697-84499c80-d81d-11eb-8c12-c77483391bb8.jpg)
 ![3](https://user-images.githubusercontent.com/77494902/123644699-84499c80-d81d-11eb-84d3-34f76d622498.jpg)
+
+``Set Two Categories (T-Shirts and Bakcpacks)``
+
 ![4](https://user-images.githubusercontent.com/77494902/123644702-84e23300-d81d-11eb-9a52-dd9e08a69382.jpg)
 ![5](https://user-images.githubusercontent.com/77494902/123644703-84e23300-d81d-11eb-97db-5af3fbc14b7c.jpg)
 
